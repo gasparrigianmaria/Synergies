@@ -1,0 +1,10 @@
+<!--<launch>
+<node pkg="synergies" name="synergies" type="synergies" output="screen"/>
+</launch>-->
+
+
+
+
+<launch>
+<node pkg="synergies" name="test_synergy_map_fun" type="synergies" output="screen"/>
+</launch>
